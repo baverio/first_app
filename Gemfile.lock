@@ -119,8 +119,13 @@ DEPENDENCIES
   pg (= 0.15.1)
   rails (= 4.0.1)
   rails_12factor (= 0.0.2)
+<<<<<<< HEAD
   sass-rails (= 4.0.1)
   sdoc (= 0.3.20)
+=======
+  sass-rails (= 4.0.0)
+  sdoc
+>>>>>>> 09e51a370ca0c1aa64cda7140598a8b2febe8c6e
   sqlite3 (= 1.3.8)
   turbolinks (= 1.1.1)
   uglifier (= 2.1.1)
